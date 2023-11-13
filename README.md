@@ -31,6 +31,32 @@ _Italico_
 
 ### Link:
 
-[Acesse meu GitHub]{https://thiago-igor.github.io}
+[Acesse meu GitHub](https://thiago-igor.github.io)
+
+
+### Criar Tabela:
+
+Num | Nome | Nota
+---|---|---
+1 | Gustavo | 8,5
+2 | Thiago | 10
+
+Terminou a Tabela
+
+
+### Comandos de Codigo:
+
+Nao Entendo o comando `documente.getElementById()`
+
+Meu programa em Pyton:
+```
+num = int(input('Digite um numero))
+if (num...){
+
+  }
+```
+
+### 
+
 
 
