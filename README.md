@@ -31,6 +31,6 @@ _Italico_
 
 ### Link:
 
-[Acesse meu GitHub]{https://github.com/thiago-igor}
+[Acesse meu GitHub]{https://thiago-igor.github.io}
 
 
