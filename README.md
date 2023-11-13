@@ -25,5 +25,12 @@ _Italico_
 - [ ] Ver aula
 - [ ] Tirar boa nota
 
+### Colocar Imagem: (Basta arrastar para o ca)
+![programacao_img](https://github.com/thiago-igor/Anotacaos_Markdown/assets/85878135/50cf9279-edc6-4f32-9b0f-509e9396c51a)
+
+
+### Link:
+
+[Acesse meu GitHub]{https://github.com/thiago-igor}
 
 
